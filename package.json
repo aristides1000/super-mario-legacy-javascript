@@ -1,0 +1,23 @@
+{
+  "name": "super-mario-legacy-javascript",
+  "version": "1.0.0",
+  "description": "This is a Super Mario game developed as a dedication to the countless hours of happiness it gave me.",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve ./public",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aristides1000/super-mario-legacy-javascript.git"
+  },
+  "author": "Aristides Jose Molina Perez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aristides1000/super-mario-legacy-javascript/issues"
+  },
+  "homepage": "https://github.com/aristides1000/super-mario-legacy-javascript#readme",
+  "dependencies": {
+    "serve": "^13.0.2"
+  }
+}
